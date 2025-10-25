@@ -97,8 +97,8 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 08/11/2025,16.0,Female,Kolkata,Kolkata,,School Student,,CRY Website,,Kolkata,Unchanged
 08/11/2025,24.0,Male,Kolkata ,Kolkata,,Working Professional,,Social Media Sites,,Kolkata,Unchanged
 08/11/2025,29.0,Male,Kolkata,Kolkata,,Working Professional,,CRY Website,,Kolkata,Unchanged
-08/11/2025,20.0,Male,Prayagraj,Agra,,College/University Student,,CRY Website,,Kolkata,Changed
-08/11/2025,20.0,Male,Prayagraj,Agra,,College/University Student,,CRY Website,,Kolkata,Changed
+08/11/2025,20.0,Male,Prayagraj,Prayagraj,,College/University Student,,CRY Website,,Kolkata,Unchanged
+08/11/2025,20.0,Male,Prayagraj,Prayagraj,,College/University Student,,CRY Website,,Kolkata,Unchanged
 08/11/2025,19.0,Female,Kolkata ,Kolkata,,College/University Student,,CRY Website,,Kolkata,Unchanged
 08/11/2025,19.0,Female,Hooghly,Hooghly,,College/University Student,,Social Media Sites,,Kolkata,Unchanged
 08/11/2025,21.0,Female,Kolkata ,Kolkata,,College/University Student,,CRY Website,,Kolkata,Unchanged
@@ -414,8 +414,8 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 05/03/2025,28.0,Male,Kolkata,Kolkata,,Working Professional,,CRY Website,,Kolkata,Unchanged
 05/03/2025,16.0,Female,Patna,Patna,,School Student,,Social Media Sites,,Kolkata,Unchanged
 05/03/2025,25.0,Female,Howrah,Howrah,,College/University Student,,CRY Website,,Kolkata,Unchanged
-05/03/2025,16.0,Female,Bihar,Bihar Sharif,,School Student,,Social Media Sites,,Kolkata,Changed
-05/03/2025,16.0,Female,Bihar,Bihar Sharif,,School Student,,Social Media Sites,,Kolkata,Changed
+05/03/2025,16.0,Female,Bihar,Bihar,,School Student,,Social Media Sites,,Kolkata,Unchanged
+05/03/2025,16.0,Female,Bihar,Bihar,,School Student,,Social Media Sites,,Kolkata,Unchanged
 05/02/2025,26.0,Male,Kolkata,Kolkata,,Personal Business,,CRY Website,,Kolkata,Unchanged
 05/02/2025,18.0,Male,Kolkata ,Kolkata,,School Student,,CRY Website,,Kolkata,Unchanged
 05/02/2025,27.0,Male,Bongaigaon,Bongaigaon,,Other,Social workers ,CRY Website,,Kolkata,Unchanged
@@ -985,7 +985,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 08/04/2025,15.0,Female,Mohali,Mohali,,School Student,,CRY Volunteers/Interns,,Delhi,Unchanged
 08/04/2025,23.0,Male,Gurgaon,Gurgaon,,Working Professional,,CRY Website,,Delhi,Unchanged
 08/04/2025,20.0,Female,Ghaziabad ,Ghaziabad,,College/University Student,,Family/Friend,,Delhi,Unchanged
-08/04/2025,20.0,Female,Prayagraj ,Agra,,College/University Student,,Family/Friend,,Delhi,Changed
+08/04/2025,20.0,Female,Prayagraj ,Prayagraj,,College/University Student,,Family/Friend,,Delhi,Unchanged
 08/04/2025,21.0,Female,Lucknow,Lucknow,,College/University Student,,Others,,Delhi,Unchanged
 08/04/2025,17.0,Female,Gurgaon,Gurgaon,,School Student,,CRY Website,,Delhi,Unchanged
 08/04/2025,19.0,Female,New Delhi,Delhi,,College/University Student,,CRY Volunteers/Interns,,Delhi,Changed
@@ -1000,9 +1000,9 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 08/03/2025,17.0,Female,Kalanaur,Kalanaur,,School Student,,CRY Website,,Delhi,Unchanged
 08/02/2025,21.0,Female,Lucknow ,Lucknow,,College/University Student,,CRY Volunteers/Interns,,Delhi,Unchanged
 08/02/2025,30.0,Female,Ghaziabad ,Ghaziabad,,Other,On break,CRY Website,,Delhi,Unchanged
-08/02/2025,20.0,Female,Prayagraj,Agra,,College/University Student,,Others,,Delhi,Changed
+08/02/2025,20.0,Female,Prayagraj,Prayagraj,,College/University Student,,Others,,Delhi,Unchanged
 08/02/2025,62.0,Female,New Delhi,Delhi,,Retired,,CRY Website,,Delhi,Changed
-08/02/2025,21.0,Male,Prayagraj,Agra,,College/University Student,,Social Media Sites,,Delhi,Changed
+08/02/2025,21.0,Male,Prayagraj,Prayagraj,,College/University Student,,Social Media Sites,,Delhi,Unchanged
 08/02/2025,24.0,Male,Greater noida,Noida,,College/University Student,,CRY Website,,Delhi,Changed
 08/02/2025,21.0,Female,Etawah,Etawah,,College/University Student,,Family/Friend,,Delhi,Unchanged
 08/02/2025,22.0,Male,New Delhi ,Delhi,,College/University Student,,CRY Volunteers/Interns,,Delhi,Changed
@@ -1256,7 +1256,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 07/03/2025,17.0,Male,Panchkula,Panchkula,,School Student,,Social Media Sites,,Delhi,Unchanged
 07/03/2025,21.0,Female,Delhi,Delhi,,College/University Student,,Social Media Sites,,Delhi,Unchanged
 07/03/2025,23.0,Male,Delhi,Delhi,,Other,"Graduated, Preparing for UPSC",Social Media Sites,,Delhi,Unchanged
-07/02/2025,22.0,Male,prayagraj,Agra,,Working Professional,,CRY Website,,Delhi,Changed
+07/02/2025,22.0,Male,prayagraj,Prayagraj,,Working Professional,,CRY Website,,Delhi,Unchanged
 07/02/2025,32.0,Female,Mathura,Mathura,,Working Professional,,CRY Website,,Delhi,Unchanged
 07/02/2025,18.0,Female,Tonk,Tonk,,College/University Student,,Online ads and Posts,,Delhi,Unchanged
 07/02/2025,19.0,Female,New delhi,Delhi,,College/University Student,,Others,,Delhi,Changed
@@ -1448,7 +1448,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 06/14/2025,19.0,Female,New Delhi,Delhi,,College/University Student,,CRY Website,,Delhi,Changed
 06/14/2025,24.0,Male,Nawada ,Nawada,,Working Professional,,CRY Website,,Delhi,Unchanged
 06/14/2025,22.0,Female,Delhi,Delhi,,College/University Student,,CRY Website,,Delhi,Unchanged
-06/14/2025,16.0,Female,Prayagraj ,Agra,,School Student,,Others,,Delhi,Changed
+06/14/2025,16.0,Female,Prayagraj ,Prayagraj,,School Student,,Others,,Delhi,Unchanged
 06/14/2025,26.0,Female,Chandigarh,Chandigarh,,Working Professional,,CRY Website,,Delhi,Unchanged
 06/14/2025,26.0,Female,Chandigarh,Chandigarh,,Working Professional,,CRY Website,,Delhi,Unchanged
 06/14/2025,26.0,Female,Chandigarh,Chandigarh,,Working Professional,,CRY Website,,Delhi,Unchanged
@@ -1468,7 +1468,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 06/12/2025,21.0,Female,lucknow,Lucknow,,College/University Student,,CRY Website,,Delhi,Unchanged
 06/12/2025,17.0,Female,Ludhiana,Ludhiana,,School Student,,CRY Website,,Delhi,Unchanged
 06/12/2025,22.0,Female,Noida,Noida,,College/University Student,,Family/Friend,,Delhi,Unchanged
-06/12/2025,27.0,Female,Prayagraj,Agra,,Working Professional,,CRY Website,,Delhi,Changed
+06/12/2025,27.0,Female,Prayagraj,Prayagraj,,Working Professional,,CRY Website,,Delhi,Unchanged
 06/12/2025,17.0,Female,Gurgaon,Gurgaon,,School Student,,Social Media Sites,,Delhi,Unchanged
 06/11/2025,21.0,Female,Patna,Patna,,College/University Student,,Social Media Sites,,Delhi,Unchanged
 06/11/2025,22.0,Female,Noida,Noida,,Working Professional,,Social Media Sites,,Delhi,Unchanged
@@ -1505,7 +1505,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 06/09/2025,15.0,Male,Kota,Kota,,School Student,,CRY Website,,Delhi,Unchanged
 06/09/2025,16.0,Male,Srinagar,Srinagar,,School Student,,Family/Friend,,Delhi,Unchanged
 06/09/2025,23.0,Male,Delhi,Delhi,,College/University Student,,CRY Website,,Delhi,Unchanged
-06/09/2025,19.0,Male,Prayagraj,Agra,,College/University Student,,Social Media Sites,,Delhi,Changed
+06/09/2025,19.0,Male,Prayagraj,Prayagraj,,College/University Student,,Social Media Sites,,Delhi,Unchanged
 06/08/2025,23.0,Female,Hardoi,Hardoi,,College/University Student,,Family/Friend,,Delhi,Unchanged
 06/08/2025,20.0,Female,Delhi,Delhi,,College/University Student,,Social Media Sites,,Delhi,Unchanged
 06/08/2025,21.0,Female,Morena,Morena,,Working Professional,,CRY Website,,Delhi,Unchanged
@@ -2443,7 +2443,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 04/07/2025,23.0,Female,North West Delhi,Delhi,,Working Professional,,CRY Volunteers/Interns,,Delhi,Changed
 04/07/2025,22.0,Female,Delhi,Delhi,,College/University Student,,CRY Volunteers/Interns,,Delhi,Unchanged
 04/07/2025,20.0,Female,New Delhi,Delhi,,College/University Student,,CRY Website,,Delhi,Changed
-04/07/2025,18.0,Male,Prayagraj,Agra,,College/University Student,,Social Media Sites,,Delhi,Changed
+04/07/2025,18.0,Male,Prayagraj,Prayagraj,,College/University Student,,Social Media Sites,,Delhi,Unchanged
 04/07/2025,30.0,Male,Delhi,Delhi,,Working Professional,,CRY Website,,Delhi,Unchanged
 04/07/2025,22.0,Male,Varanasi,Varanasi,,College/University Student,,CRY Website,,Delhi,Unchanged
 04/06/2025,21.0,Female,Delhi,Delhi,,College/University Student,,CRY Website,,Delhi,Unchanged
@@ -2524,7 +2524,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 04/02/2025,25.0,Female,Ghaziabad ,Ghaziabad,,College/University Student,,CRY Website,,Delhi,Unchanged
 04/02/2025,25.0,Female,Ghaziabad ,Ghaziabad,,College/University Student,,CRY Website,,Delhi,Unchanged
 04/02/2025,25.0,Female,Ghaziabad ,Ghaziabad,,College/University Student,,CRY Website,,Delhi,Unchanged
-04/02/2025,22.0,Male,Prayagraj,Agra,,College/University Student,,Social Media Sites,,Delhi,Changed
+04/02/2025,22.0,Male,Prayagraj,Prayagraj,,College/University Student,,Social Media Sites,,Delhi,Unchanged
 04/01/2025,20.0,Female,Delhi,Delhi,,College/University Student,,CRY Website,,Delhi,Unchanged
 04/01/2025,19.0,Female,New Delhi,Delhi,,College/University Student,,CRY Website,,Delhi,Changed
 04/01/2025,17.0,Female,Delhi ,Delhi,,School Student,,CRY Website,,Delhi,Unchanged
@@ -2714,7 +2714,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 08/12/2025,21.0,Male,Banglore ,Bangalore,,College/University Student,,Social Media Sites,,Bengaluru,Changed
 08/11/2025,17.0,Female,Banglore,Bangalore,,School Student,,Family/Friend,,Bengaluru,Changed
 08/11/2025,17.0,Female,Banglore,Bangalore,,School Student,,Family/Friend,,Bengaluru,Changed
-08/11/2025,18.0,Female,Kochi and Bangalore,Bangalore,,College/University Student,,CRY Website,,Bengaluru,Changed
+08/11/2025,18.0,Female,Kochi and Bangalore,Bengaluru,,College/University Student,,CRY Website,,Bengaluru,Changed
 08/11/2025,50.0,Female,Banglore,Bangalore,,Working Professional,,Social Media Sites,,Bengaluru,Changed
 08/11/2025,20.0,Female,Mangalore ,Mangalore,,College/University Student,,CRY Website,,Bengaluru,Unchanged
 08/11/2025,33.0,Female,Banglore,Bangalore,,Working Professional,,Family/Friend,,Bengaluru,Changed
@@ -4114,7 +4114,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 05/30/2025,20.0,Male,Bijapur,Bijapur,,College/University Student,,Others,,Mumbai,Unchanged
 05/29/2025,48.0,Male,Khorda,Khorda,,Working Professional,,Others,,Mumbai,Unchanged
 05/29/2025,25.0,Male,Mumbai,Mumbai,,Working Professional,,Social Media Sites,,Mumbai,Unchanged
-05/29/2025,21.0,Male,Allahabad,Allahabad,,College/University Student,,Social Media Sites,,Mumbai,Unchanged
+05/29/2025,21.0,Male,Allahabad,Prayagraj,,College/University Student,,Social Media Sites,,Mumbai,Changed
 05/29/2025,20.0,Male,Mumbai,Mumbai,,College/University Student,,Online ads and Posts,,Mumbai,Unchanged
 05/29/2025,17.0,Female,Mumbai,Mumbai,,College/University Student,,Social Media Sites,,Mumbai,Unchanged
 05/28/2025,17.0,Female,Mumbai ,Mumbai,,College/University Student,,CRY Website,,Mumbai,Unchanged
@@ -4270,7 +4270,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 05/04/2025,14.0,Male,Vashi Navi Mumbai,Mumbai,,School Student,,Family/Friend,,Mumbai,Changed
 05/04/2025,19.0,Male,Mumbai,Mumbai,,College/University Student,,Social Media Sites,,Mumbai,Unchanged
 05/04/2025,32.0,Female,Mumbai,Mumbai,,Working Professional,,CRY Website,,Mumbai,Unchanged
-05/03/2025,26.0,Female,Prayagraj,Agra,,College/University Student,,CRY Website,,Mumbai,Changed
+05/03/2025,26.0,Female,Prayagraj,Prayagraj,,College/University Student,,CRY Website,,Mumbai,Unchanged
 05/03/2025,22.0,Female,Pune,Pune,,College/University Student,,Family/Friend,,Mumbai,Unchanged
 05/03/2025,17.0,Female,Ahmedabad ,Ahmedabad,,School Student,,CRY Website,,Mumbai,Unchanged
 05/03/2025,29.0,Female,Mumbai,Mumbai,,Working Professional,,CRY Website,,Mumbai,Unchanged
@@ -4496,7 +4496,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 09/04/2025,23.0,Male,Pune,Pune,,College/University Student,,CRY Website,,Pune,Unchanged
 09/04/2025,46.0,Female,Pune,Pune,,Other,Woman empowerment coach,CRY Website,,Pune,Unchanged
 09/03/2025,21.0,Male,Pune ,Pune,,College/University Student,,Others,,Pune,Unchanged
-09/02/2025,27.0,Female,Prayagraj ,Agra,,Other,UPSC aspirant ; cleared prelims of 2025,CRY Website,,Pune,Changed
+09/02/2025,27.0,Female,Prayagraj ,Prayagraj,,Other,UPSC aspirant ; cleared prelims of 2025,CRY Website,,Pune,Unchanged
 08/31/2025,21.0,Female,Bhusawal,Bhusawal,,Other,Graduate/Fresher,CRY Website,,Pune,Unchanged
 08/29/2025,39.0,Male,pune,Pune,,Personal Business,,Social Media Sites,,Pune,Unchanged
 08/27/2025,21.0,Female,Pune,Pune,,College/University Student,,CRY Website,,Pune,Unchanged
@@ -4639,7 +4639,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 05/20/2025,21.0,Female,Kolkata ,Kolkata,,College/University Student,,Family/Friend,,Pune,Unchanged
 05/19/2025,41.0,Male,Pune,Pune,,Personal Business,,CRY Website,,Pune,Unchanged
 05/19/2025,19.0,Female,PATIALA,Patiala,,College/University Student,,CRY Website,,Pune,Unchanged
-05/19/2025,35.0,Male,Bihar,Bihar Sharif,,Other,Clerk,CRY Website,,Pune,Changed
+05/19/2025,35.0,Male,Bihar,Bihar,,Other,Clerk,CRY Website,,Pune,Unchanged
 05/19/2025,20.0,Male,latur,Latur,,College/University Student,,CRY Website,,Pune,Unchanged
 05/18/2025,22.0,Female,Hyderabad,Hyderabad,,Working Professional,,CRY Website,,Pune,Unchanged
 05/15/2025,21.0,Female,Pune,Pune,,Working Professional,,CRY Volunteers/Interns,,Pune,Unchanged
@@ -4665,7 +4665,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 05/07/2025,19.0,Female,Pune,Pune,,College/University Student,,CRY Website,,Pune,Unchanged
 05/07/2025,17.0,Female,Nashik ,Nashik,,School Student,,Others,,Pune,Unchanged
 05/07/2025,34.0,Female,Sagar Madhya Pradesh ,Sagar Madhya Pradesh,,Working Professional,,CRY Website,,Pune,Unchanged
-05/06/2025,24.0,Female,Bihar,Bihar Sharif,,College/University Student,,CRY Website,,Pune,Changed
+05/06/2025,24.0,Female,Bihar,Bihar,,College/University Student,,CRY Website,,Pune,Unchanged
 05/06/2025,17.0,Female,Noida UP,Noida,,School Student,,CRY Website,,Pune,Changed
 05/06/2025,24.0,Male,Nagpur ,Nagpur,,College/University Student,,CRY Volunteers/Interns,,Pune,Unchanged
 05/06/2025,20.0,Female,Jamnagar,Jamnagar,,College/University Student,,Social Media Sites,,Pune,Unchanged
@@ -4675,7 +4675,7 @@ Date,Age,Gender,City,City (Updated),Tier,Occupation,Other Occupation,CRY Source,
 05/04/2025,17.0,Female,Pune,Pune,,College/University Student,,CRY Website,,Pune,Unchanged
 05/04/2025,16.0,Female,Pune,Pune,,School Student,,CRY Website,,Pune,Unchanged
 05/04/2025,22.0,Female,Pune,Pune,,Working Professional,,Family/Friend,,Pune,Unchanged
-05/03/2025,21.0,Female,Pune and New Delhi,Delhi,,College/University Student,,Social Media Sites,,Pune,Changed
+05/03/2025,21.0,Female,Pune and New Delhi,Pune,,College/University Student,,Social Media Sites,,Pune,Changed
 05/03/2025,20.0,Male,pune,Pune,,College/University Student,,CRY Website,,Pune,Unchanged
 05/03/2025,16.0,Female,Pune,Pune,,School Student,,CRY Website,,Pune,Unchanged
 05/03/2025,22.0,Male,Pune,Pune,,College/University Student,,CRY Website,,Pune,Unchanged

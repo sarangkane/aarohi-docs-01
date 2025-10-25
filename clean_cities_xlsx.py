@@ -20,11 +20,23 @@ MISSPELLINGS = {
 }
 def proper_case(city):
     return city.title()
-def clean_city_name(raw_city):
-    city = re.split(r",|-|/|\(|\[", str(raw_city))[0].strip()
-    city = city.title()
+def clean_city_name(raw_city, volunteering_pref):
+    raw_city_str = str(raw_city).strip()
+    volunteering_pref_str = str(volunteering_pref).strip()
+    # If more than one city is mentioned, use volunteering location preference
+    if any(sep in raw_city_str for sep in [" and ", ",", "/", "-"]):
+        if volunteering_pref_str:
+            return volunteering_pref_str.title()
+    # If only state name is present, keep as is
+    state_names = ["Bihar", "Maharashtra", "Karnataka", "West Bengal", "Tamil Nadu", "Uttar Pradesh", "Punjab", "Gujarat", "Rajasthan", "Kerala", "Assam", "Odisha", "Jharkhand", "Chhattisgarh", "Haryana", "Telangana", "Andhra Pradesh", "Madhya Pradesh", "Goa", "Tripura", "Manipur", "Meghalaya", "Nagaland", "Arunachal Pradesh", "Sikkim", "Mizoram", "Puducherry", "Delhi"]
+    if raw_city_str.title() in state_names:
+        return raw_city_str.title()
+    city = re.split(r",|-|/|\(|\[", raw_city_str)[0].strip().title()
     if city in MISSPELLINGS:
         city = MISSPELLINGS[city]
+    # Map Allahabad and Prayagraj to Prayagraj
+    if city.lower() in ["allahabad", "prayagraj"]:
+        return "Prayagraj"
     for valid in VALID_CITIES:
         if city.lower() == valid.lower():
             return valid
@@ -35,7 +47,12 @@ def clean_city_name(raw_city):
 def main():
     df = pd.read_csv("Merged Excel.csv")
     city_col = df.columns[3]
-    df.insert(df.columns.get_loc(city_col) + 1, "City (Updated)", df[city_col].apply(clean_city_name))
+    volunteering_col = "Volunteering Location Preference"
+    df.insert(
+        df.columns.get_loc(city_col) + 1,
+        "City (Updated)",
+        [clean_city_name(city, vol) for city, vol in zip(df[city_col], df[volunteering_col])]
+    )
     df["Changed/Unchanged"] = [
         "Changed" if str(orig).strip().title() != str(updated).strip().title() else "Unchanged"
         for orig, updated in zip(df[city_col], df["City (Updated)"])
